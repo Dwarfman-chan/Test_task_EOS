@@ -8,4 +8,4 @@
     - дані які треба зберегти в строковому форматі мають бути двомірні інакше виникне помилка. 
 
 Для того щоб запустити test_module.py треба запустити команду з чотирьох аргументів
-    "~python -m unittest ~tech_exam/test_module.py"
+    *"~python -m unittest ~tech_exam/test_module.py"*
